@@ -1,2 +1,4 @@
 # golden-ratio
-This site clearly explains about the golden ratio with interesting stuffs inside.  This site is made for Hackbenchers#4
+We are a team of two named as Tech_Army (Jaskeerat Singh and Bala Yokesh Mani). We have created this beautiful website for our Hackathon i.e Hackbenchers#4  hosted by HackerEarth on their platform .Our site vividly explains about the concept of Golden Ratio with interesting and knowledgable stuffs inside. The most exciting thing is that it's fully RESPONSIVE!!!!!!  
+It also delivers you the best user-experience.
+
